@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457688111505",
+    "project_id": "novelty-b1e14",
+    "storage_bucket": "novelty-b1e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457688111505:android:07ee8fa0b3852518486230",
+        "android_client_info": {
+          "package_name": "com.example.mero_portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457688111505-7vo9on7045p2j3ni3i6h27a2apbg7u30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkvSPS2DZVuDzakW2d6P62ob93s9K8Hf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457688111505-7vo9on7045p2j3ni3i6h27a2apbg7u30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
